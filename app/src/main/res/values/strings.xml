@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FitnessApp</string>
+    <string name="slogan">On the way to perfection!</string>
+    <string name="day">Day:</string>
+    <string name="days">Training days</string>
+    <string name="exercises">Number of exercises:</string>
+    <string name="exercise">Exercises</string>
+    <string name="waiting_message">Exercises will start:</string>
+    <string name="start">Start</string>
+    <string name="next">Next</string>
+    <string name="done">Done</string>
+    <string name="waiting">Get ready</string>
+    <string name="rest">Balance:</string>
+    <string name="rest_days">days</string>
+    <string name="reset">Reset</string>
+    <string name="alert">Attention</string>
+    <string name="back">Cancel</string>
+    <string name="reset_days_message">Are you sure want to reset all exercises done days?</string>
+    <string name="reset_day_message">Do you want to reset this day and repeat the exercises?</string>
+</resources>
