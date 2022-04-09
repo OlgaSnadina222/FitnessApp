@@ -1,4 +1,4 @@
-# FitnessApp
+# Would you like to have attactive body? Let's go with Fitness application!
 ![splash](https://user-images.githubusercontent.com/86000667/162577876-6dbe32c4-67ce-4931-b871-ba8e34503a1c.gif)
 ![start](https://user-images.githubusercontent.com/86000667/162577653-fa6d63b2-4b35-4c79-95e9-6e2d2ac182d3.gif)
 ![clear](https://user-images.githubusercontent.com/86000667/162577772-dbfb21c2-6185-4cca-9d85-c55041482961.gif)
